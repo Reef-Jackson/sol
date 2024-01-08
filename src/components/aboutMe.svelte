@@ -11,8 +11,6 @@
             <h1 class="pb-4 w-full text-3xl font-bold">{title}</h1>
             <p class="w-full text-lg">{p1}</p>
             <p class="w-full text-lg">{p2}</p>
-
-
         </div>
     </div>    
 </div>

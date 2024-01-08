@@ -3,12 +3,12 @@
 </script>
 
 
-<div class="min-h-screen hero bg-base-400">
+<div class="min-h-screen hero bg-base-300">
     <div class="text-center hero-content">
       <div class="max-w-md">
-          <h1 class="text-5xl font-bold">Hi, I'm Reef 🪸</h1>
-          <p class="px-12 py-6">A Sheffield Hallam Software Student looking to make his way into the industry!</p>
-        <ScrollToElement targetId="about" buttonContent="See what I'm all about!"/>
+          <h1 class="text-5xl font-bold">Sol Jackson</h1>
+          <p class="px-12 py-6">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aut, a?</p>
+        <ScrollToElement targetId="about" buttonContent="More on me"/>
       </div>
     </div>
   </div>
