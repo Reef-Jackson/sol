@@ -3,7 +3,7 @@
 </script>
 
 
-<div class="min-h-screen hero bg-base-300">
+<div class="min-h-screen hero bg-hero">
     <div class="text-center hero-content">
       <div class="max-w-md">
           <h1 class="text-5xl font-bold">Sol Jackson</h1>

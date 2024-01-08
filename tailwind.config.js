@@ -12,7 +12,7 @@ export default {
     },
     extend: {
       backgroundImage: {
-        'hero': "url('$lib/images/window.jpg')",
+        'hero': "url('$lib/images/hero.png')",
         'bucket': "url('$lib/images/bucket.gif')",
       }
     }
