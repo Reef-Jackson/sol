@@ -13,7 +13,6 @@
 <AboutMe 
     title="About me:"
     p1="
-    A passionate film-maker from Chesterfield, England.
     I believe every shot needs to tell a story, and I'm here to help you do just that. As an experienced film-maker, I'll work closely to achieve your vision."
     p2="This portfolio shows my experience and skill in film, my chosen strong point is audio."
 />
